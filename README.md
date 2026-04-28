@@ -1,5 +1,8 @@
 # Leveringsanalyse Dashboard
 
+<img width="800" height="427" alt="Logistics" src="https://github.com/user-attachments/assets/8d718fd4-acbf-41f3-9419-05c72e319a61" />
+
+
 Dette projekt indeholder et Streamlit-baseret dashboard til analyse af logistikdata samt en indbygget Machine Learning-klassifikator til forudsigelse af forsinkede pakker (`is_delayed`).
 
 ## Funktioner
